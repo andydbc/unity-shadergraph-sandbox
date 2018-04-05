@@ -1,0 +1,3 @@
+[submodule "Assets/Shader Graph Custom Nodes"]
+	path = Assets/Shader Graph Custom Nodes
+	url = https://github.com/andydbc/shadergraph-custom-nodes.git
