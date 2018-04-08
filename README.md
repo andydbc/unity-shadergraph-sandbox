@@ -9,3 +9,7 @@ Collection of ShaderGraph Effects
 ## Hologram
 
 <img width=550 src=Screenshots/Hologram.gif>
+
+## License
+
+> Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
