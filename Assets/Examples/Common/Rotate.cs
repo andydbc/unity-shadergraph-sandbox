@@ -15,6 +15,6 @@ public class Rotate : MonoBehaviour
             return;
 
         transform.LookAt(_target.position + _offset);
-        transform.Translate(Vector3.right * Time.deltaTime * _speed);
+        transform.RotateAround(_target.position, Vector3.up, Time.deltaTime * _speed);
     }
 }
