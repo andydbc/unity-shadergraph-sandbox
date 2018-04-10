@@ -10,6 +10,10 @@ Collection of ShaderGraph Effects
 
 <img width=550 src=Screenshots/Hologram.gif>
 
+## Toon
+
+<img width=550 src=Screenshots/Toon.gif>
+
 ## License
 
 > Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
