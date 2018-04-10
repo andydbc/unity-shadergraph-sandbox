@@ -91,11 +91,11 @@ MonoBehaviour:
     overrideState: 1
     value: 1.49
   edgesOnly:
-    overrideState: 1
+    overrideState: 0
     value: 0
   edgesOnlyBgColor:
-    overrideState: 1
-    value: {r: 0, g: 0, b: 0, a: 1}
+    overrideState: 0
+    value: {r: 1, g: 0.9764151, b: 0.9764151, a: 1}
 --- !u!114 &114808190774542818
 MonoBehaviour:
   m_ObjectHideFlags: 3
