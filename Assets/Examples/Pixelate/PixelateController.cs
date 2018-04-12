@@ -22,5 +22,5 @@ public class PixelateController : MonoBehaviour
         var s = (Mathf.Sin(Time.time * 1.25f) + 1.0f) / 2.0f;
         var r = Mathf.Lerp(32, 512, s);
         _material.SetFloat(_resolution_property_name, r);
-	}
+    }
 }
