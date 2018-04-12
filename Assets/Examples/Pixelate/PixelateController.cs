@@ -17,7 +17,7 @@ public class PixelateController : MonoBehaviour
         _material = renderer.sharedMaterial;
     }
 	
-	void Update ()
+    void Update ()
     {
         var s = (Mathf.Sin(Time.time * 1.25f) + 1.0f) / 2.0f;
         var r = Mathf.Lerp(32, 512, s);
