@@ -2,7 +2,7 @@
 
 Collection of ShaderGraph Effects
 
-<img width=550 src=https://user-images.githubusercontent.com/31256170/38787810-56920c14-40fe-11e8-929b-88de8f0b368e.gif>
+<img src=https://user-images.githubusercontent.com/31256170/38787810-56920c14-40fe-11e8-929b-88de8f0b368e.gif>
 
 ## List of ShaderGraphs
 
