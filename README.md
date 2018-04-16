@@ -18,4 +18,4 @@ Require [Unity 2018.1b](https://unity3d.com/fr/unity/beta/2018.1b) or newer.
 
 ## License
 
-> Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
+Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
