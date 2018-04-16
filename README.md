@@ -2,21 +2,19 @@
 
 Collection of ShaderGraph Effects
 
-## Fire
+<img width=550 src=https://user-images.githubusercontent.com/31256170/38787810-56920c14-40fe-11e8-929b-88de8f0b368e.gif>
 
-<img width=550 src=Screenshots/Fire.gif>
+## List of ShaderGraphs
 
-## Hologram
+* Dissolve
+* Fire
+* Hologram
+* Pixelate
+* ToonShading
 
-<img width=550 src=Screenshots/Hologram.gif>
+## Requirements
 
-## Toon
-
-<img width=550 src=Screenshots/Toon.gif>
-
-## Pixelate
-
-<img width=550 src=https://user-images.githubusercontent.com/31256170/38653804-718bdbd4-3dda-11e8-9c28-ee58260d32db.gif>
+Require [Unity 2018.1b](https://unity3d.com/fr/unity/beta/2018.1b) or newer.
 
 ## License
 
