@@ -1,11 +1,16 @@
-# unity-shadergraph-sandbox [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/andyduboc/5usd)
+# ShaderGraph examples and demos [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/andyduboc/5usd)
 
-Collection of ShaderGraph Effects
+A comprehensive collection of shaders examples for the new [ShaderGraph](https://github.com/Unity-Technologies/ScriptableRenderPipeline/tree/master/com.unity.shadergraph). The node-based shader creation tool made by Unity
 
 <img src=https://user-images.githubusercontent.com/31256170/38787810-56920c14-40fe-11e8-929b-88de8f0b368e.gif>
 
-## List of ShaderGraphs
+## Cloning
 
+TODO
+
+## Examples
+
+### Basics
 * Dissolve
 * Fire
 * Hologram
