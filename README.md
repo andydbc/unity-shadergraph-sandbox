@@ -1,4 +1,4 @@
-# ShaderGraph examples and demos [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/andyduboc/5usd)
+# ShaderGraph examples and demos [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](http://mit-license.org) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/andyduboc/5usd)
 
 A comprehensive collection of shaders examples for the new [ShaderGraph](https://github.com/Unity-Technologies/ScriptableRenderPipeline/tree/master/com.unity.shadergraph). The node-based shader creation tool made by Unity
 
