@@ -26,7 +26,7 @@ git submodule update
 * Fire
 * Hologram
 * Pixelate
-* ToonShading
+* Toon
 
 ## Requirements
 
