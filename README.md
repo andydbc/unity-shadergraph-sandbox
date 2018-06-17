@@ -21,12 +21,25 @@ git submodule update
 
 ## Examples
 
-### Basics
 * Dissolve
+
+![Dissolve](https://user-images.githubusercontent.com/31256170/41510401-077a570c-7232-11e8-8c89-2bff3e814f96.png)
+
 * Fire
+
+![Fire](https://user-images.githubusercontent.com/31256170/41510402-0832d822-7232-11e8-8c7e-0244db9706a5.png)
+
 * Hologram
+
+![Hologram](https://user-images.githubusercontent.com/31256170/41510403-083fe9f4-7232-11e8-93d8-5c5f8b3ab5b1.png)
+
 * Pixelate
+
+![Pixelate](https://user-images.githubusercontent.com/31256170/41510405-08936ab6-7232-11e8-892d-a12803b84bb6.png)
+
 * Toon
+
+![Toon](https://user-images.githubusercontent.com/31256170/41510404-086873a6-7232-11e8-98f5-6f0ddb322a2a.png)
 
 ## Requirements
 
