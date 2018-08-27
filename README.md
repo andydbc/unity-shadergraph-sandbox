@@ -41,6 +41,10 @@ git submodule update
 
 ![Toon](https://user-images.githubusercontent.com/31256170/41510404-086873a6-7232-11e8-98f5-6f0ddb322a2a.png)
 
+* Simple Flag
+
+![Flag](https://user-images.githubusercontent.com/31256170/44661992-69ee7500-a9da-11e8-90aa-d70f9b6f1ece.png)
+
 ## Requirements
 
 Require [Unity 2018.1b](https://unity3d.com/fr/unity/beta/2018.1b) or newer.
