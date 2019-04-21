@@ -1,6 +1,3 @@
-[submodule "Assets/Shader Graph Library"]
-	path = Assets/Shader Graph Library
-	url = https://github.com/andydbc/shadergraph-custom-nodes.git
 [submodule "Assets/Examples/Toon/Outline Post Effect"]
 	path = Assets/Examples/Toon/Outline Post Effect
 	url = https://github.com/andydbc/EdgeDetect-PostProcessingUnity.git
