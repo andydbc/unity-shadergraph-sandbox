@@ -47,7 +47,7 @@ git submodule update
 
 ## Requirements
 
-Require [Unity 2018.1b](https://unity3d.com/fr/unity/beta/2018.1b) or newer.
+Require [Unity 2019.1.0f2](https://unity3d.com/fr/unity/beta/2018.1b) or newer.
 
 ## License
 

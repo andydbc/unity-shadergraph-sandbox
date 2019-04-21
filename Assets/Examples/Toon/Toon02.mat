@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Toon02
   m_Shader: {fileID: 4800000, guid: 9ed1eb4789a68d341abcec5c0b550c5e, type: 3}
   m_ShaderKeywords: 
@@ -73,6 +74,7 @@ Material:
     m_Floats:
     - Vector1_45C50B88: 32
     - Vector1_A073E274: 2
+    - Vector1_CCFC6136: 32
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -95,9 +97,13 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_3DEB4A4C: {r: 0.9764706, g: 0.42745098, b: 0.10980392, a: 0}
+    - Color_48A70A3D: {r: 1, g: 0.6741603, b: 0.32549024, a: 0}
+    - Color_537723E0: {r: 1, g: 0.7764706, b: 0.32549015, a: 0}
     - Color_5E9FFE85: {r: 0.972549, g: 0.6392157, b: 0.13333334, a: 0}
     - Color_BCDD6386: {r: 0.9433962, g: 0.81434673, b: 0.81434673, a: 0}
+    - Color_F1D4F974: {r: 1, g: 0.5882353, b: 0.32549015, a: 0}
     - Vector3_5385A2A6: {r: 1.84, g: 1.99, b: -0.68, a: 0}
+    - Vector3_5C9CB8FC: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

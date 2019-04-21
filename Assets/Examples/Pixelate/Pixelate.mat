@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Pixelate
   m_Shader: {fileID: 4800000, guid: 573122d1a60df304dacfd0f299173650, type: 3}
   m_ShaderKeywords: 
@@ -18,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_E09BF5BF:
+        m_Texture: {fileID: 2800000, guid: 6009207576bda54428302983559d1ca4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_C954FEB7:
         m_Texture: {fileID: 2800000, guid: 6009207576bda54428302983559d1ca4, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -67,7 +72,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_47CCBCA7: 77
+    - Vector1_47CCBCA7: 73.9921
+    - Vector1_98D73C7B: 32
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
