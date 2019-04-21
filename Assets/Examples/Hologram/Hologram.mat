@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Hologram
   m_Shader: {fileID: 4800000, guid: 036e6d26c7abc4c48a9998cfbf213b30, type: 3}
   m_ShaderKeywords: 
@@ -62,7 +63,11 @@ Material:
     - Vector1_20AAA3BB: 25
     - Vector1_29E114BC: 0.1
     - Vector1_52D8A188: 0.52
+    - Vector1_5B9FB3FC: 0.5
     - Vector1_7C46F196: -0.6
+    - Vector1_B42F4EB5: 20
+    - Vector1_B452457E: 1.2
+    - Vector1_D7B88F10: 0.1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -85,6 +90,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_361BCBAF: {r: 0.76862746, g: 0, b: 0.36112225, a: 0}
+    - Color_D0409D15: {r: 0.6431373, g: 0, b: 0.35072666, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
